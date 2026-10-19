@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1178-scheme-style-transaction-deep-links-fail-to",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1178-scheme-style-transaction-deep-links-fail-to": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1178-scheme-style-transaction-deep-links-fail-to",
+    "origin"
+  ]
+}
